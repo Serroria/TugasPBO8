@@ -26,7 +26,10 @@ public class Toko {
         String[] kodeBarang = {};
         String[] namaBarang = {"Pulpen", "Buku", "Pensil","Spidol", "Penghapus"};
         int[] hargaList = {2000, 5000, 2000, 5000, 2000};
-        
+
+        System.out.println("TOKO SERBA ADA");
+        System.out.println("**************");
+        System.out.println();
         System.out.print("Masukan Item Barang: ");
         int data = input.nextInt();
         for (int i=0; i<data; i++){
