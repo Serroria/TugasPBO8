@@ -9,7 +9,6 @@ Nama : Merylien Jovanda
 Kelas : 3f Informatika
 *1. Jumlah Barang = 5 
 2. Kode dari 001-00n
-3. Kode semakin tinggi harga semakin tinggi 
 4. Barang = pulpen, buku,pensil,spidol,penghapus.
 - Harga satuan ( random /bebas = asal masuk akal)
 * 
